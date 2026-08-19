@@ -1,4 +1,4 @@
-# Hi, I'm Alreem 👋
+# Hi, I'm Alreem 
 
 I'm a Senior Software Engineering student specializing in Cybersecurity at Prince Sultan University in Riyadh, Saudi Arabia.
 
